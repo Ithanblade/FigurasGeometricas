@@ -95,6 +95,7 @@ public class Main {
         System.out.println(miFigura9.getNombre());
 
     // ESTE ES EL PRIMER CAMBIO 1
-
+        // Este es el cambio 2
+        System.out.println("Hola Mundo");
     }
 }
