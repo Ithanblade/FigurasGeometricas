@@ -30,8 +30,10 @@ public class Elipse extends FigurasGeo{
     }
     public double calcularPerimetro(){
         return 2 * Math.PI * Math.sqrt(((radioMayor * radioMayor) + (radioMenor * radioMenor)) / 2);
-    }
 
+        // Richard Soria Insano
+        //Hola
+    }
 
 }
 
