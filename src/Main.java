@@ -94,7 +94,7 @@ public class Main {
         miFigura9.setNombre("Edificio");
         System.out.println(miFigura9.getNombre());
 
-    // ESTE ES EL PRIMER CAMBIO
+    // ESTE ES EL PRIMER CAMBIO 1
 
     }
 }
