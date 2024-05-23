@@ -32,7 +32,7 @@ public class Elipse extends FigurasGeo{
         return 2 * Math.PI * Math.sqrt(((radioMayor * radioMayor) + (radioMenor * radioMenor)) / 2);
 
         // Richard Soria Insano
-        //Hola
+        //Hola2
     }
 
 }
