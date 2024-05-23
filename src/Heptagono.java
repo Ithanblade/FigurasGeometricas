@@ -9,7 +9,7 @@ public class Heptagono extends FigurasGeo{
     }
 
     public Heptagono(String nombre, int numLados, Double apotema, Double lado) {
-        super(nombre, 7);
+        super(nombre, numLados);
         this.apotema = apotema;
         this.lado = lado;
 
